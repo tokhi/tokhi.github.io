@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Getting Started With Android Development"
+date:   2014-08-20 11:37:29
+categories: android
+---
+
 Getting Started With Android Development
 ===========================
 This article is a how to for newbies to start building apps in Android. So this article requires you to have a basic knowledge of java programming and object oriented.
