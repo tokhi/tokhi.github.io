@@ -126,7 +126,7 @@ _**Hint**_:
 
 > After cloning the repository remove the `bin` directory via `rm` command and then stash your changes `git stash save` and then pull the commit revision e.g; `git pull <commit-id>`
 
-```java
+{% highlight java %}
 package com.example.tecktalk_android;
 import android.os.Bundle;
 import android.app.Activity;
@@ -146,19 +146,19 @@ public class MainActivity extends Activity {
 		getMenuInflater().inflate(R.menu.main, menu);
 		return true;
 	}
-```
+{% endhighlight %}
 Basically as soon as you [run the project](http://developer.android.com/tools/building/building-eclipse.html#RunningOnEmulatorEclipse) by right clicking on the android project and then run as `Android Application` (first you need to create the [AVD](http://developer.android.com/tools/devices/managing-avds.html)) then `onCreate` method will be invoked and it just renders the content of the `activity_main` (this is an xml file and you can create this file in the `layout` directory.
 for the time being we only have below `TextView` in the layout:
 
-```xml
+{% highlight xml %}
  <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello Android" />
-  ```
+{% endhighlight %}
 Its always important to check your `AndroidManifest.xml` file to make sure which Activity will be triggered on runtime.
 in this example the Manifest file should look something like below:
-```xml
+{% highlight xml %}
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.tecktalk_android"
@@ -187,13 +187,13 @@ in this example the Manifest file should look something like below:
 
 </manifest>
 
-```
+{% endhighlight %}
 The Android SDK version might be different according to the version which is installed on your eclipse. So the version I have used in this example is `18`
-```xml
+{% highlight xml %}
 <uses-sdk
         android:minSdkVersion="18"
         android:targetSdkVersion="18" />
-```
+{% endhighlight %}
 
 You can also use the `Graphical Layout` and just create you desired interface with some drag and drops. To switch the graphical layout just open your xml layout and down the page click on the `Graphical Layout` tab.
 
