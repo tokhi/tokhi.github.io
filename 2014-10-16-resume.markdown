@@ -3,8 +3,9 @@ layout: page
 title: Shafi Tokhi
 permalink: /cv/
 ---
-> <shafi.tokhi [at] gmail.com>
->
+
+Email: <em>shafi.tokhi [at] gmail.com</em>
+
 
 <a href="https://github.com/{{ site.github_username }}">
               <span class="icon  icon--github">
