@@ -25,8 +25,7 @@ Highly competent backend developer with 6 years’ development experience across
 <br>
 
 
-######Professional Skills######
-
+#Professional Skills#
 
 <hr>
 
@@ -49,7 +48,7 @@ Highly competent backend developer with 6 years’ development experience across
 * Working experience in Jira, Asana.
 
 
-######Education######
+#Education#
 <hr>
 
 <em>March, 2010</em> - Master Degree in Computer Science (Informatik) - _Technical University of Berlin , Germany._
@@ -76,7 +75,7 @@ management course based on UNIX in Netherlands
 
 <em>May, 2012</em> - Hands on Cyber Security – 1 month intensive training course in Ankara – Turkey
 
-######Work Experience######
+#Work Experience#
 <hr>
 
 * _Senior Web developer_ at <em>Castaclip GmbH, Potsdam - Germany<em> as an Employee , working primarily with Ruby, Python and Java with team consisting of 15 software Developer and test engineers
@@ -105,14 +104,14 @@ management course based on UNIX in Netherlands
   * processing requests for development of new databases or major changes to the existing 
   * Working closely with short-term consultants to troubleshoot, design and develop 
 
-######Honors######
+#Honors#
 <hr>
 
 * Scholarship from Technical University of Berlin for Master Degree studies in Computer Science
 * Scholarship from Technical University of Berlin for Bachelor Studies
 * Scholarship from Technical University of Berlin for Bachelor Studies
 
-######Language######
+#Language#
 <hr>
 * English – excellent 
 * Persian - excellent
