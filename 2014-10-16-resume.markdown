@@ -1,16 +1,23 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Resume
+permalink: /cv/
 ---
+##### Summary #####
+<hr>
+Highly competent backend developer with 6 years’ development experience across a variety of platforms. I have worked on numerous projects from concept to completion. A specialist in Java ruby (ruby on rails framework) and Python, I take pride in coding to consistently high standards and regularly refresh my skills to ensure I keep up with ongoing developments.
+
 
 #####Professional Skills #####
+<hr>
 
-* Programming / Markup / Scripting Languages – Java, Mobile programming (Android, JSF ( Java Server Faces ) , JSP ( Java Server Pages ) , Ruby on Rails, Ajax, XML, HTML
+* Database-driven web applications via Ruby, Ruby on Rails, Python (Flask & bottle), Sinatra, Padrino, Cucumber, Rspec
+* Java (JSF, JEE6, JSP), Mobile Development (Android), Programming / Markup / Scripting Languages, Ajax, XML, HTML
+* Vagrant, Puppet, Apache, Nginx
 
-* Special Skills in Java (>6 yrs experience) – Web-based (Servlets, JSP, JSF, Spring Roo), GUI (AWT, Swing), Web-Service Spring, OR Mapping (Hibernate), Testing (Junit), Eclipse Plug-in Development.
+* Special Skills in Ruby and Java  Web-based (Servlets, JSP, JSF, Spring Roo, JEE6), GUI (AWT, Swing), Web-Service Play Framework, OR Mapping (Hibernate), Testing (Junit)
 
-* Database-driven web applications via Ruby, Ruby on Rails, Sinatra, Padrino, Cucumber, Rspec
+* understanding of Multi-Threaded and Multi-Process Applications
 
 * Databases: Postgresql, MongoDB, ElasticSearch, Mysql, sqlite3
 
@@ -50,3 +57,44 @@ management course based on UNIX in Netherlands
 
 <em>May, 2012<em> - Hands on Cyber Security – 1 month intensive training course in Ankara – Turkey
 
+##### Work Experience#####
+<hr>
+
+* Senior Web developer at <em>Castaclip GmbH, Potsdam - Germany<em> as an Employee , working primarily with Ruby, Python and Java with team consisting of 15 software Developer and test engineers
+* Java & Ruby Developer at <em>Castaclip GmbH, Potsdam - Germany<em> as a freelancer
+* Project Manager of the PEMS ( Patient Emergency and Management System based on Java) in Herat Regional Hospital.
+* Software Engineering Lecturer ( Herat University – Computer Science Faculty ).
+* Herat University Network Operation Center Manager (March 2010 – September 2012)
+* Senior Developer at Afghan Citadel Software Company 
+* Senior Software developer on Comprehensive study of the AHRIMS ( Afghan Human Resource Information Management System) for ministry of Interior and defense of Afghanistan. 
+ * The goal was to determine current and future system interfaces (financial, medical,biometrics, etc.) based on current and proposed business processes and develop national AHRIMS system architecture .
+ 
+* IT Manager in Herat University (IT Center)
+  * Configuring linux servers, bandwidth management and monitoring, keeping track of network users and their accounts, developing plugins for NOC web application.
+  * Developing tactical plans for the company – ensure all technology systems are maintained and continue to develop in support of all operations.
+  * Monitoring and maintaining network system of the IT center. 
+  
+* Teaching Software Engineering concepts and programming.
+  * Developing software projects that were outsourced by software companies through the university (Developing software projects from design to implementation phase)
+  * Create and maintain program documentation and version release notes
+  * Troubleshooting and maintaining support for existing software components
+  * Providing technical advices and assisting software developers team.
+
+* AIHRC – IT Coordinator and Manager Secretary (Human rights Commision – Herat, Afghanistan )
+
+* FMFB – Database Officer
+  * processing requests for development of new databases or major changes to the existing 
+  * Working closely with short-term consultants to troubleshoot, design and develop 
+
+##### Honors #####
+<hr>
+
+* Scholarship from Technical University of Berlin for Master Degree studies in Computer Science
+* Scholarship from Technical University of Berlin for Bachelor Studies
+* Scholarship from Technical University of Berlin for Bachelor Studies
+
+##### Language #####
+<hr>
+* English – excellent 
+* Persian - excellent
+* German - Intermediate
