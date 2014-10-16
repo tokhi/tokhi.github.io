@@ -30,7 +30,7 @@ Highly competent backend developer with 6 years’ development experience across
 <hr>
 
 * Database-driven web applications via Ruby, Ruby on Rails, Python (Flask & bottle), Sinatra, Padrino, Cucumber, Rspec
-* Java (JSF, JEE6, JSP), Mobile Development (Android), Programming / Markup / Scripting Languages, Ajax, XML, HTML
+* Java (JSF, JEE6, JSP, Spark, Freemarker), Mobile Development (Android), Programming / Markup / Scripting Languages, Ajax, XML, HTML
 * Vagrant, Puppet, Apache, Nginx
 
 * Special Skills in Ruby and Java  Web-based (Servlets, JSP, JSF, Spring Roo, JEE6), GUI (AWT, Swing), Web-Service Play Framework, OR Mapping (Hibernate), Testing (Junit)
