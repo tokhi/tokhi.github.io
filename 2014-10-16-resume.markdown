@@ -1,2 +1,52 @@
-Resume
-================
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+#####Professional Skills #####
+
+* Programming / Markup / Scripting Languages – Java, Mobile programming (Android, JSF ( Java Server Faces ) , JSP ( Java Server Pages ) , Ruby on Rails, Ajax, XML, HTML
+
+* Special Skills in Java (>6 yrs experience) – Web-based (Servlets, JSP, JSF, Spring Roo), GUI (AWT, Swing), Web-Service Spring, OR Mapping (Hibernate), Testing (Junit), Eclipse Plug-in Development.
+
+* Database-driven web applications via Ruby, Ruby on Rails, Sinatra, Padrino, Cucumber, Rspec
+
+* Databases: Postgresql, MongoDB, ElasticSearch, Mysql, sqlite3
+
+* Favorite IDE – Sublime, Eclipse, PyCharm, IntelliJ, Textmate
+
+* Project Management – Initiation , planning, problem solving.
+
+* Special skills in Linux: (6 years) working experience with different distributions.
+
+* Working experience in Jira, Asana.
+
+
+##### Education ####
+<hr>
+
+<em>March, 2010<em> - Master Degree in Computer Science (Informatik) - **Technical University of Berlin , Germany.**
+
+<em>Study field<em>: Software Engineering
+
+<em>March, 2007<em> - Bachelor in Computer Science , University of Herat , Afghanistan.
+
+Software Engineering - Computer Networks 
+
+<em>April, 2005<em> - 4 months Scholarship in Technical University of Berlin , Germany working on 
+
+Algorithms and Programming Projects.
+
+<em>Bachelor Thesis<em> – Implementation of Open Source Software in Afghanistan
+
+<em>Master Thesis<em> – Developing a Distributed Web based Application via JEE technologies and 
+
+Hibernate named PEMS.
+
+<em>October, 2011<em> - Building an Academic Network – 1 month intensive networking and bandwidth 
+
+management course based on UNIX in Netherlands
+
+<em>May, 2012<em> - Hands on Cyber Security – 1 month intensive training course in Ankara – Turkey
+
