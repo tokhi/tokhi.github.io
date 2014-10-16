@@ -3,6 +3,10 @@ layout: page
 title: Resume
 permalink: /cv/
 ---
+
+> ## 
+> Email: shafi [dot] tokhi [at] gmail [dot] com
+> Github: 
 ###### Summary######
 <hr>
 Highly competent backend developer with 6 years’ development experience across a variety of platforms. I have worked on numerous projects from concept to completion. A specialist in Java ruby (ruby on rails framework) and Python, I take pride in coding to consistently high standards and regularly refresh my skills to ensure I keep up with ongoing developments.
