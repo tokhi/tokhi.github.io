@@ -76,16 +76,17 @@ management course based on UNIX in Netherlands
 <em>May, 2012</em> - Hands on Cyber Security – 1 month intensive training course in Ankara – Turkey
 
 #Work Experience#
+##### April 2006 - October 2014 #####
 <hr>
 
-* _Senior Web developer_ at <em>Castaclip GmbH, Potsdam - Germany<em> as an Employee , working primarily with Ruby, Python and Java with team consisting of 15 software Developer and test engineers
+* _Senior Web developer_ at <em>Castaclip GmbH, Potsdam - Germany<em> as an Employee , working primarily with Ruby, Python and Java with teams consisting of 15 software Developer and test engineers
 * _Java & Ruby Developer_ at <em>Castaclip GmbH, Potsdam - Germany<em> as a freelancer
 * Project Manager of the PEMS ( Patient Emergency and Management System based on Java) in Herat Regional Hospital.
 * Software Engineering Lecturer ( Herat University – Computer Science Faculty ).
-* Herat University Network Operation Center Manager (March 2010 – September 2012)
+* Herat University Network Operation Center Manager
 * Senior Developer at Afghan Citadel Software Company 
 * Senior Software developer on Comprehensive study of the AHRIMS ( Afghan Human Resource Information Management System) for ministry of Interior and defense of Afghanistan. 
- * The goal was to determine current and future system interfaces (financial, medical,biometrics, etc.) based on current and proposed business processes and develop national AHRIMS system architecture .
+  * The goal was to determine current and future system interfaces (financial, medical,biometrics, etc.) based on current and proposed business processes and develop national AHRIMS system architecture .
  
 * IT Manager in Herat University (IT Center)
   * Configuring linux servers, bandwidth management and monitoring, keeping track of network users and their accounts, developing plugins for NOC web application.
