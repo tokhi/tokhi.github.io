@@ -77,7 +77,7 @@ management course based on UNIX in Netherlands
 
 #Work Experience#
 <hr>
-###### April 2006 - October 2014 ######
+###### April 2006 - December 2014 ######
 <hr>
 
 * _Senior Web developer_ at <em>Castaclip GmbH, Potsdam - Germany<em> as an Employee , working primarily with Ruby, Python and Java with teams consisting of 15 software Developer and test engineers
