@@ -29,7 +29,7 @@ Highly competent backend & front end developer with 6 years’ development exper
 
 <hr>
 
-* Database-driven web applications via Ruby, Ruby on Rails, Python (Flask & bottle), Sinatra, Padrino, Cucumber, Rspec
+* Database-driven web applications via Ruby, Ruby on Rails, Python (Flask & bottle), nodejs (expressjs framework), Sinatra, Padrino, Cucumber, Rspec
 * Java (JSF, JEE6, JSP, Spark, Freemarker), Mobile Development (Android), Programming / Markup / Scripting Languages, Ajax, XML, HTML
 * Vagrant, Puppet, Apache, Nginx
 
