@@ -1,7 +1,7 @@
 ---
-layout: page
+layout:
 title: Shafi Tokhi
-permalink: /details/
+permalink: /details
 ---
 
 Email: <em>shafi.tokhi [at] gmail.com</em>
