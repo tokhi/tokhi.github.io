@@ -1,5 +1,5 @@
 ---
-layout:
+layout: page
 title: Shafi Tokhi
 permalink: /details
 ---
