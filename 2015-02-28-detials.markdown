@@ -86,7 +86,7 @@ management course based on UNIX in Netherlands
 * January, 2013 - December, 2013,  Software Engineering Lecturer ( Herat University – Computer Science Faculty ).
 * October, 2012 - December, 2012, Herat University Network Operation Center Manager
 * April, 2012 - September, 2012, Senior Developer at Afghan Citadel Software Company 
-* April, 2012 - September, 2012, Senior Software developer on Comprehensive study of the AHRIMS ( Afghan Human Resource Information Management System) for ministry of Interior and defense of Afghanistan. 
+  * Senior Software developer on Comprehensive study of the AHRIMS ( Afghan Human Resource Information Management System) for ministry of Interior and defense of Afghanistan. 
   * The goal was to determine current and future system interfaces (financial, medical,biometrics, etc.) based on current and proposed business processes and develop national AHRIMS system architecture .
  
 * March, 2011 - March, 2012, IT Manager in Herat University (IT Center)
