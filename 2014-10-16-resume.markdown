@@ -21,7 +21,7 @@ Email: <em>shafi.tokhi [at] gmail.com</em>
 # Summary#
 
 <hr>
-Highly competent backend & front end developer with 6 years’ development experience across a variety of platforms. I have worked on numerous projects from concept to completion. A specialist in Java ruby (ruby on rails framework) and Python, I take pride in coding to consistently high standards and regularly refresh my skills to ensure I keep up with ongoing developments.
+Highly competent backend & front end developer with 6 years’ development experience across a variety of platforms. I have worked on numerous projects from concept to completion. A specialist in Java ruby (ruby on rails framework), and Python, I take pride in coding to consistently high standards and regularly refresh my skills to ensure I keep up with ongoing developments.
 <br>
 
 
@@ -39,11 +39,13 @@ Highly competent backend & front end developer with 6 years’ development exper
 
 * Databases: Postgresql, MongoDB, ElasticSearch, Mysql, sqlite3
 
-* Favorite IDE – Sublime, Eclipse, PyCharm, IntelliJ, Textmate
+* Favorite IDE – Vim, Sublime, Eclipse, PyCharm, IntelliJ, Textmate
 
 * Project Management – Initiation , planning, problem solving.
 
-* Special skills in Linux: (6 years) working experience with different distributions.
+* Special skills in Linux: (7 years) working experience with different distributions.
+
+* Huge fan of shell scripting
 
 * Working experience in Jira, Asana, Kanban, newrelic.
 
