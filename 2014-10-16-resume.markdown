@@ -14,7 +14,9 @@ Email: <em>shafi.tokhi [at] gmail.com</em>
                 </svg>
              </span>  Tokhi
 
-
+<a href="http://stackoverflow.com/users/277740/tokhi">
+<img src="http://stackoverflow.com/users/flair/277740.png?theme=clean" width="208" height="58" alt="profile for tokhi at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for tokhi at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+</a>
 
           
 
