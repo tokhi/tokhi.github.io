@@ -23,7 +23,7 @@ Email: <em>shafi.tokhi [at] gmail.com</em>
 # Summary#
 
 <hr>
-Highly competent backend & front end developer with 6 years’ development experience across a variety of platforms. I have worked on numerous projects from concept to completion. A specialist in Java, ruby (ruby on rails framework), and Python, I take pride in coding to consistently high standards and regularly refresh my skills to ensure I keep up with ongoing developments.
+Highly competent backend & front end developer with 6 years’ development experience across a variety of platforms. I have worked on numerous projects from concept to completion. A specialist in ruby (ruby on rails framework), Java and Python, I take pride in coding to consistently high standards and regularly refresh my skills to ensure I keep up with ongoing developments.
 <br>
 
 
