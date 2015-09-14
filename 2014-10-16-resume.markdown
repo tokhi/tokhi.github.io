@@ -49,7 +49,7 @@ Highly competent backend & front end developer with 6 years’ development exper
 
 * Huge fan of shell scripting
 
-* Working experience in Jira, Asana, Kanban, newrelic.
+* Working experience in Jira, Asana, Kanban, newrelic, hipchat, hubot and slack.
 
 
 #Education#
