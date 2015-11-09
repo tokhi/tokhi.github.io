@@ -83,7 +83,7 @@ management course based on UNIX in Netherlands
 <hr>
 ###### April 2006 - November 2015 ######
 <hr>
-* _Senior Web developer at <em>DigitaleSeiten GmbH, Berlin - Germany<em>, building RESTful APIs and ruby on rails web platforms.
+* _Senior Web developer_ at <em>DigitaleSeiten GmbH, Berlin - Germany<em>, building RESTful APIs and ruby on rails web platforms.
 * _Senior Web developer & team lead_ at <em>Castaclip GmbH, Potsdam - Germany<em> , working primarily with Ruby, Python and Java with teams consisting of 15 software Developer and test engineers
 * _Java & Ruby Developer_ at <em>Castaclip GmbH, Potsdam - Germany<em> as a freelancer
 * Project Manager of the PEMS ( Patient Emergency and Management System based on Java) in Herat Regional Hospital.
