@@ -19,7 +19,7 @@ Email: <em>shafi.tokhi [at] gmail.com</em>
 </a>
 
 <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
-  <i class="icon icon--linkedin"></i> LinkedIn
+   <span class="icon icon--linkedin"></span> LinkedIn
 </a>
           
 
