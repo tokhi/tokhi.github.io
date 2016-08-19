@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Docker, Elasticsearch and Kibana"
+date:   2016-08-19 11:38:29
+categories: rails
+---
+
+Elasticsearch is a NOSQL, distributed full text database. Which means that this database is document based instead of using tables or schema.
+
+So this tutorial helps you to install Elasticsearch and Kibana in docker and then learn all the important stuff from Elasticsearch. [read more...](https://medium.com/@s_tokhi/docker-elasticsearch-and-kibana-c76808ea3ab8#.ihwnpglfe) 
