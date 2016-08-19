@@ -5,13 +5,13 @@ date:   2016-01-14 13:00:29
 categories: rails
 ---
 Install the gem:
-{% highlight java %}
+```bash
 gem install catpix
-{% endhighlight %}
+```
 
 Very simple to do:
 
-{% highlight java %}
+```ruby
 require 'catpix'
 Catpix::print_image "caveman1.png",
   :limit_x => 1.0,
@@ -20,6 +20,6 @@ Catpix::print_image "caveman1.png",
   :center_y => true,
   :bg => "white",
   :bg_fill => true
-{% endhighlight %}
+```
 
 [read more...](https://github.com/tokhi/catpixdemo) 
