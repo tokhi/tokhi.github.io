@@ -8,7 +8,7 @@ categories: android
 
 This article is a how to for newbies to start building apps in Android. So this article requires you to have a basic knowledge of java programming and object oriented.
 
-######Install Android tool######
+##Install Android tool
 For a quick start in developing apps download ADT bundle which includes all essential android SDK components and a version of the Eclipse IDE with built-in ADT (Android Developer Tools) to streamline your Android app development.
 
 
@@ -27,7 +27,7 @@ https://developer.android.com/sdk/installing/adding-packages.html
 
 
 
-######Android Software Stack######
+##Android Software Stack
 ![alt tag](http://www.vogella.com/tutorials/Android/images/xandroidsoftwarelayer10.png.pagespeed.ic.cqHvO0-Uh9.png)
 
 There are many SDK version that you can also build application the version that is used in this project is SDK 4.4/4.4.1 / 4.4.2(KitKat) and API 18/19
@@ -43,7 +43,7 @@ Its always important to choose the right SDK and API version because here you de
 
 
 
-######Android Project Structure######
+##Android Project Structure
 
 Android projects are the projects that eventually get built into an .apk file that you install onto a device. They contain things such as application source code and resource files. Some are generated for you by default, while others should be created if required. The following directories and files comprise an Android project:
 
@@ -126,7 +126,7 @@ _**Hint**_:
 
 > After cloning the repository remove the `bin` directory via `rm` command and then stash your changes `git stash save` and then pull the commit revision e.g; `git pull <commit-id>`
 
-{% highlight java %}
+```java
 package com.example.tecktalk_android;
 import android.os.Bundle;
 import android.app.Activity;
@@ -146,19 +146,22 @@ public class MainActivity extends Activity {
 		getMenuInflater().inflate(R.menu.main, menu);
 		return true;
 	}
-{% endhighlight %}
+```
+
 Basically as soon as you [run the project](http://developer.android.com/tools/building/building-eclipse.html#RunningOnEmulatorEclipse) by right clicking on the android project and then run as `Android Application` (first you need to create the [AVD](http://developer.android.com/tools/devices/managing-avds.html)) then `onCreate` method will be invoked and it just renders the content of the `activity_main` (this is an xml file and you can create this file in the `layout` directory.
 for the time being we only have below `TextView` in the layout:
 
-{% highlight xml %}
+```xml
  <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello Android" />
-{% endhighlight %}
+```
+
 Its always important to check your `AndroidManifest.xml` file to make sure which Activity will be triggered on runtime.
 in this example the Manifest file should look something like below:
-{% highlight xml %}
+
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.tecktalk_android"
@@ -187,19 +190,21 @@ in this example the Manifest file should look something like below:
 
 </manifest>
 
-{% endhighlight %}
+```
+
 The Android SDK version might be different according to the version which is installed on your eclipse. So the version I have used in this example is `18`
-{% highlight xml %}
+
+```xml
 <uses-sdk
         android:minSdkVersion="18"
         android:targetSdkVersion="18" />
-{% endhighlight %}
+```
 
 You can also use the `Graphical Layout` and just create you desired interface with some drag and drops. To switch the graphical layout just open your xml layout and down the page click on the `Graphical Layout` tab.
 
 To learn how to play with the graphical layout <a href="https://www.youtube.com/watch?v=ijGVngb5vj4" target="_blank">watch this video</a>.
 
-######Activity lifecycle######
+##Activity lifecycle
 ![alt tag](http://developer.android.com/images/activity_lifecycle.png)
 
 
