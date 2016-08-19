@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Using Catpix gem to print an image in the terminal"
+date:   2016-01-14 13:00:29
+categories: rails
+---
+Install the gem:
+{% highlight bash}
+gem install catpix
+{% endhighlight %}
+
+Very simple to do:
+
+{% highlight ruby %}
+require 'catpix'
+Catpix::print_image "caveman1.png",
+  :limit_x => 1.0,
+  :limit_y => 0,
+  :center_x => true,
+  :center_y => true,
+  :bg => "white",
+  :bg_fill => true
+{% endhighlight %}
+
+[read more...](https://github.com/tokhi/catpixdemo) 
