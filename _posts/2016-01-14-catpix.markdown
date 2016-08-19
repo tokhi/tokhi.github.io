@@ -5,7 +5,7 @@ date:   2016-01-14 13:00:29
 categories: rails
 ---
 Install the gem:
-{% highlight java}
+{% highlight java %}
 gem install catpix
 {% endhighlight %}
 
