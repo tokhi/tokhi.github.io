@@ -5,13 +5,13 @@ date:   2016-01-14 13:00:29
 categories: rails
 ---
 Install the gem:
-{% highlight ruby}
+{% highlight java}
 gem install catpix
 {% endhighlight %}
 
 Very simple to do:
 
-{% highlight ruby %}
+{% highlight java %}
 require 'catpix'
 Catpix::print_image "caveman1.png",
   :limit_x => 1.0,
