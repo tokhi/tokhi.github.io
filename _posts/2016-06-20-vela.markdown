@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Vela - Clone a table's records from mysql to postgresql and vice versa."
-date:   2015-01-12 11:38:29
+date:   2016-06-20 14:38:29
 categories: rails
 ---
 
