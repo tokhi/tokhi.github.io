@@ -8,7 +8,7 @@ categories: android
 
 This article is a how to for newbies to start building apps in Android. So this article requires you to have a basic knowledge of java programming and object oriented.
 
-##Install Android tool
+## Install Android tool
 For a quick start in developing apps download ADT bundle which includes all essential android SDK components and a version of the Eclipse IDE with built-in ADT (Android Developer Tools) to streamline your Android app development.
 
 
@@ -27,7 +27,7 @@ https://developer.android.com/sdk/installing/adding-packages.html
 
 
 
-##Android Software Stack
+## Android Software Stack
 ![alt tag](http://www.vogella.com/tutorials/Android/images/xandroidsoftwarelayer10.png.pagespeed.ic.cqHvO0-Uh9.png)
 
 There are many SDK version that you can also build application the version that is used in this project is SDK 4.4/4.4.1 / 4.4.2(KitKat) and API 18/19
@@ -36,14 +36,14 @@ Its always important to choose the right SDK and API version because here you de
 
 [Here in this link](https://developer.android.com/about/dashboards/index.html) you can see the different platform versions which are running on mobile deveices, As writting of this article Jelly Bean has the higher distribution and then its Kitkat.
 
-######Android Emulator Setup ######
+### Android Emulator Setup
 >The Android SDK includes a virtual mobile device emulator that runs on your computer. The emulator lets you prototype, develop and test Android applications without using a physical device.
 
 <a href="http://developer.android.com/tools/devices/emulator.html" target="blank"> Read more... </a>
 
 
 
-##Android Project Structure
+## Android Project Structure
 
 Android projects are the projects that eventually get built into an .apk file that you install onto a device. They contain things such as application source code and resource files. Some are generated for you by default, while others should be created if required. The following directories and files comprise an Android project:
 
@@ -116,7 +116,7 @@ The control file that describes the nature of the application and each of its co
 This file contains project settings, such as the build target. This file is integral to the project, so maintain it in a source revision control system. To edit project properties in Eclipse, right-click the project folder and select Properties.
 
 
-######Building your first App######
+### Building your first App
 1. Create a mew android project via eclipse which you have already installed.
 2. open/create your `MainActivity` and paste the code below:
 
@@ -204,7 +204,7 @@ You can also use the `Graphical Layout` and just create you desired interface wi
 
 To learn how to play with the graphical layout <a href="https://www.youtube.com/watch?v=ijGVngb5vj4" target="_blank">watch this video</a>.
 
-##Activity lifecycle
+## Activity lifecycle
 ![alt tag](http://developer.android.com/images/activity_lifecycle.png)
 
 
