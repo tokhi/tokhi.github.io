@@ -20,14 +20,14 @@ Email: <em>shafi.tokhi [at] gmail.com</em>
 
           
 
-# Summary#
+# Summary
 
 <hr>
 Highly competent Full Stack Developer with 7 years’ development experience across a variety of platforms. I have worked on numerous projects from concept to completion. A specialist in ruby (ruby on rails framework), Java and Python, I take pride in coding to consistently high standards and regularly refresh my skills to ensure I keep up with ongoing developments.
 <br>
 
 
-#Professional Skills#
+# Professional Skills
 
 <hr>
 
@@ -52,7 +52,7 @@ Highly competent Full Stack Developer with 7 years’ development experience acr
 * Working experience in Jira, Asana, Kanban, newrelic, hipchat, hubot and slack.
 
 
-#Education#
+# Education
 <hr>
 
 <em>March, 2010</em> - Master Degree in Computer Science (Informatik) - _Technical University of Berlin , Germany._
@@ -79,7 +79,7 @@ management course based on UNIX in Netherlands
 
 <em>May, 2012</em> - Hands on Cyber Security – 1 month intensive training course in Ankara – Turkey
 
-#Work Experience#
+# Work Experience
 <hr>
 ###### April 2006 - November 2015 ######
 <hr>
@@ -110,14 +110,14 @@ management course based on UNIX in Netherlands
   * processing requests for development of new databases or major changes to the existing 
   * Working closely with short-term consultants to troubleshoot, design and develop 
 
-#Honors#
+# Honors
 <hr>
 
 * Scholarship from Technical University of Berlin for Master Degree studies in Computer Science
 * Scholarship from Technical University of Berlin for Bachelor Studies
 * Scholarship from Technical University of Berlin for Bachelor Studies
 
-#Language#
+# Language
 <hr>
 * English – excellent 
 * Persian - excellent
