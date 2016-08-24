@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Docker, Elasticsearch and Kibana (part 2)"
+date:   2016-08-24 04:08:29
+categories: rails
+---
+
+In this part I start from Elasticsearch basics and then go deep into important elasticsearch queries and aggregations.
+
+To learn more about how to install Elasticsearch and Kibana as docker containers have a look to the first part.
+
+Elasticsearch is a real time search engine where a change to an index will be propagated to the whole cluster within a second. [read more...](https://medium.com/@s_tokhi/docker-elasticsearch-and-kibana-part-2-a4f13aca2797#.qszpbis1n) 
