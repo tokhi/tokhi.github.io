@@ -33,6 +33,7 @@ Highly competent Full Stack Developer with 7 years’ development experience acr
 
 * Database-driven web applications via Ruby, Ruby on Rails, Python (Flask & bottle), nodejs (expressjs framework), Sinatra, Padrino, Cucumber, Rspec
 * Java (JSF, JEE6, JSP, Spark, Freemarker), Mobile Development (Android), Programming / Markup / Scripting Languages, Ajax, XML, HTML, <a href="https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html">IPFS</a>
+* Travis, codeship
 * Vagrant, chef, Puppet, Apache, Nginx, Docker
 
 * Special Skills in Ruby and Java  Web-based (Servlets, JSP, JSF, Spring Roo, JEE6), GUI (AWT, Swing), Web-Service Play Framework, OR Mapping (Hibernate), Testing (Junit), Mailchimp
