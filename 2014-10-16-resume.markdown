@@ -82,7 +82,7 @@ management course based on UNIX in Netherlands
 
 # Work Experience
 <hr>
-###### April 2006 - November 2015 ######
+###### April 2006 - January 2017 ######
 <hr>
 * _Senior Full Stack Developer_ at <em>DigitaleSeiten GmbH, Berlin - Germany<em>, building RESTful APIs and ruby on rails web platforms.
 * _Senior Full Stack Developer & team lead_ at <em>Castaclip GmbH, Potsdam - Germany<em> , working primarily with Ruby, Python and Java with teams consisting of 15 software Developer and test engineers
