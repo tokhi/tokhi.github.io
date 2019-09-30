@@ -68,7 +68,7 @@ Software Engineering - Computer Networks
 
 Algorithms and Programming Projects.
 
-<em>Bachelor Thesis</em> – Implementation of Open Source Software in Afghanistan
+<em>Bachelor Thesis</em> – Implementation of Open Source Software in Health care centers
 
 <em>Master Thesis</em> – Developing a Distributed Web based Application via JEE technologies and 
 
@@ -92,7 +92,7 @@ management course based on UNIX in Netherlands
 * Software Engineering Lecturer ( Herat University – Computer Science Faculty ).
 * Herat University Network Operation Center Manager
 * Senior Developer at Afghan Citadel Software Company 
-* Senior Software developer on Comprehensive study of the AHRIMS ( Afghan Human Resource Information Management System) for ministry of Interior and defense of Afghanistan. 
+* Senior Software developer on Comprehensive study of the AHRIMS ( Human Resource Information Management System) for ministry of Interior and defense of Afghanistan. 
   * The goal was to determine current and future system interfaces (financial, medical,biometrics, etc.) based on current and proposed business processes and develop national AHRIMS system architecture .
  
 * IT Manager in Herat University (IT Center)
@@ -106,7 +106,7 @@ management course based on UNIX in Netherlands
   * Troubleshooting and maintaining support for existing software components
   * Providing technical advices and assisting software developers team.
 
-* AIHRC – IT Coordinator and Manager Secretary (Human rights Commision – Herat, Afghanistan )
+* AIHRC – IT Coordinator and Manager Secretary (Human rights Commision – Herat )
 
 * FMFB – Database Officer
   * processing requests for development of new databases or major changes to the existing 
