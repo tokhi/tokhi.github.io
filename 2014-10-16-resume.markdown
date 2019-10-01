@@ -40,7 +40,7 @@ Highly competent Full Stack Developer with 10 years’ development experience ac
 
 * understanding of Multi-Threaded and Multi-Process Applications
 
-* Databases: Postgresql, Mysql, ElasticSearch, Kibana, MongoDB, sqlite3
+* Databases: Postgresql, Mysql, ElasticSearch, Kibana, MongoDB, GraphQL, sqlite3
 
 * Favorite IDE – Vim, Sublime, Atom, Eclipse, PyCharm, IntelliJ, Textmate
 
