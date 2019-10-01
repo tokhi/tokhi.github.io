@@ -23,7 +23,7 @@ Email: <em>shafi.tokhi [at] gmail.com</em>
 # Summary
 
 <hr>
-Highly competent Full Stack Developer with 7 years’ development experience across a variety of platforms. I have worked on numerous projects from concept to completion. A specialist in ruby (ruby on rails framework), Java and Python, I take pride in coding to consistently high standards and regularly refresh my skills to ensure I keep up with ongoing developments.
+Highly competent Full Stack Developer with 10 years’ development experience across a variety of platforms. I have worked on numerous projects from concept to completion. A specialist in ruby (ruby on rails framework), Java and Python, I take pride in coding to consistently high standards and regularly refresh my skills to ensure I keep up with ongoing developments.
 <br>
 
 
@@ -34,7 +34,7 @@ Highly competent Full Stack Developer with 7 years’ development experience acr
 * Database-driven web applications via Ruby, Ruby on Rails, Python (Flask & bottle), nodejs (expressjs framework), Sinatra, Padrino, Cucumber, Rspec
 * Java (JSF, JEE6, JSP, Spark, Freemarker), Mobile Development (Android), Programming / Markup / Scripting Languages, Ajax, XML, HTML, <a href="https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html">IPFS</a>
 * Travis, codeship
-* Vagrant, chef, Puppet, Apache, cacti, squid, Nginx, Docker, Kubernetes, Gitlab-CI/CD
+* Vagrant, chef, Puppet, Apache, cacti, squid, Nginx, Docker, Kubernetes, Gitlab-CI/CD, AWS
 
 * Special Skills in Ruby and Java  Web-based (Servlets, JSP, JSF, Spring Roo, JEE6), GUI (AWT, Swing), Web-Service Play Framework, OR Mapping (Hibernate), Testing (Junit), Mailchimp
 
@@ -42,15 +42,15 @@ Highly competent Full Stack Developer with 7 years’ development experience acr
 
 * Databases: Postgresql, Mysql, ElasticSearch, Kibana, MongoDB, sqlite3
 
-* Favorite IDE – Vim, Sublime, Eclipse, PyCharm, IntelliJ, Textmate
+* Favorite IDE – Vim, Sublime, Atom, Eclipse, PyCharm, IntelliJ, Textmate
 
 * Project Management – Initiation , planning, problem solving.
 
-* Special skills in Linux: (7 years) working experience with different distributions.
+* Special skills in Linux: (10 years) working experience with different distributions.
 
-* Huge fan of Kubernetes and docker containers and shell scripting
+* Huge fan of Kubernetes, docker containers and shell scripting
 
-* Working experience in Jira, Asana, Kanban, newrelic, hipchat, hubot and slack.
+* Working experience in Jira, Asana, Kanban, Trello, newrelic, hipchat, hubot and slack.
 
 
 # Education
@@ -122,5 +122,4 @@ management course based on UNIX in Netherlands
 # Language
 <hr>
 * English – excellent 
-* Persian - excellent
 * German - Gut
