@@ -82,7 +82,7 @@ management course based on UNIX in Netherlands
 
 # Work Experience
 <hr>
-###### April 2006 - September 2019 ######
+###### April 2006 - October 2019 ######
 <hr>
 * _Development Team Lead_ at <em>DigitaleSeiten GmbH, Berlin - Germany<em>
 * _Senior Full Stack Developer_ at <em>DigitaleSeiten GmbH, Berlin - Germany<em>, building RESTful APIs, lead distribution systems, CRM and 22 ruby on rails web platforms.
