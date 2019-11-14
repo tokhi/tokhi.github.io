@@ -23,7 +23,7 @@ Email: <em>shafi.tokhi [at] gmail.com</em>
 # Summary#
 
 <hr>
-Highly competent backend & front end developer with 6 years’ development experience across a variety of platforms. I have worked on numerous projects from concept to completion. A specialist in Java ruby (ruby on rails framework) and Python, I take pride in coding to consistently high standards and regularly refresh my skills to ensure I keep up with ongoing developments.
+Highly competent Full Stack Developer with 10 years’ development experience across a variety of platforms. I have worked on numerous projects from concept to completion. A specialist in ruby (ruby on rails framework), Java and Python, I take pride in coding to consistently high standards and regularly refresh my skills to ensure I keep up with ongoing developments.
 <br>
 
 
@@ -31,24 +31,26 @@ Highly competent backend & front end developer with 6 years’ development exper
 
 <hr>
 
-* Database-driven web applications via Ruby, Ruby on Rails, Python (Flask & bottle), nodejs (expressjs framework), Sinatra, Padrino, Cucumber, Rspec
-* Java (JSF, JEE6, JSP, Spark, Freemarker), Mobile Development (Android), Programming / Markup / Scripting Languages, Ajax, XML, HTML
-* Vagrant, Puppet, Apache, Nginx
+* Database-driven web applications via Ruby, Ruby on Rails, Python (Flask & bottle), nodejs (expressjs framework), Vue.js, React, Sinatra, Padrino, Cucumber, Rspec, Resque, Redis
+* Java (JSF, JEE6, JSP, Spark, Freemarker), Mobile Development (Android), Programming / Markup / Scripting Languages, Ajax, XML, HTML, <a href="https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html">IPFS</a>
+* Travis, codeship
+* Vagrant, chef, Puppet, Apache, cacti, squid, Nginx, Docker, Kubernetes, Gitlab-CI/CD, Heroku apps, AWS
 
 * Special Skills in Ruby and Java  Web-based (Servlets, JSP, JSF, Spring Roo, JEE6), GUI (AWT, Swing), Web-Service Play Framework, OR Mapping (Hibernate), Testing (Junit), Mailchimp
 
 * understanding of Multi-Threaded and Multi-Process Applications
 
-* Databases: Postgresql, MongoDB, ElasticSearch, Mysql, sqlite3
+* Databases: Postgresql, Mysql, ElasticSearch, Kibana, MongoDB, GraphQL, sqlite3
 
-* Favorite IDE – Sublime, Eclipse, PyCharm, IntelliJ, Textmate
+* Favorite IDE – Vim, Sublime, Atom, Eclipse, PyCharm, IntelliJ, Textmate
 
 * Project Management – Initiation , planning, problem solving.
 
-* Special skills in Linux: (6 years) working experience with different distributions.
+* Special skills in Linux: (10 years) working experience with different distributions.
 
-* Working experience in Jira, Asana, Kanban, newrelic.
+* Huge fan of Kubernetes, docker containers and shell scripting
 
+* Working experience in Jira, Asana, Kanban, Trello, Newrelic, Sentry, hipchat, hubot and slack.
 
 #Education#
 <hr>
@@ -81,8 +83,9 @@ management course based on UNIX in Netherlands
 <hr>
 ###### April 2006 - June 2015 ######
 <hr>
-
-* January, 2014 - March 2015, _Senior Web developer_ at <em>Castaclip GmbH, Potsdam - Germany<em> as an Employee , working primarily with Ruby, Python and Java with teams consisting of 15 software Developer and test engineers
+* September 2017 - November 2019 _Development Team Lead_ at <em>DigitaleSeiten GmbH, Berlin - Germany<em>
+* October 2015 - August 2017 _Senior Full Stack Developer_ at <em>DigitaleSeiten GmbH, Berlin - Germany<em>, building RESTful APIs, lead distribution systems, CRM and 22 ruby on rails web platforms.
+* January, 2014 - September 2015 _Senior Full Stack Developer & team lead_ at <em>Castaclip GmbH, Potsdam - Germany<em> , working primarily with Ruby, Python and Java with teams consisting of 15 software Developers and test engineers
 * January, 2013 - December 2013, _Java & Ruby Developer_ at <em>Castaclip GmbH, Potsdam - Germany<em> as a freelancer
 * October, 2013 - December, 2013, Project Manager of the PEMS ( Patient Emergency and Management System based on Java) in Herat Regional Hospital.
 * January, 2013 - December, 2013,  Software Engineering Lecturer ( Herat University – Computer Science Faculty ).
@@ -118,5 +121,4 @@ management course based on UNIX in Netherlands
 #Language#
 <hr>
 * English – excellent 
-* Persian - excellent
-* German - Intermediate
+* German - Good
