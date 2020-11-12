@@ -48,7 +48,7 @@ Highly competent Full Stack Developer with 10 years’ development experience ac
 
 * Special skills in Linux: (10 years) working experience with different distributions.
 
-* Huge fan of Kubernetes, docker containers and shell scripting
+* Kubernetes, Infrastructre as code (Terraform), Helm charts, docker containers and shell scripting
 
 * Working experience in Jira, Asana, Kanban, Trello, Newrelic, Sentry, hipchat, hubot and slack.
 
