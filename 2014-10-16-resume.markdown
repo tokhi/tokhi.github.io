@@ -4,8 +4,8 @@ title: Shafi Tokhi
 permalink: /cv/
 ---
 
-Email: <em>shafi.tokhi [at] gmail.com</em>
-
+Email: <em>shafi.tokhi [at] gmail.com</em><br>
+Localtion: <em> Berlin </em>
 
 <a href="https://github.com/{{ site.github_username }}">
               <span class="icon  icon--github">
@@ -23,7 +23,7 @@ Email: <em>shafi.tokhi [at] gmail.com</em>
 # Summary
 
 <hr>
-Highly competent Full Stack Developer with 10 years’ development experience across a variety of platforms. I have worked on numerous projects from concept to completion. A specialist in ruby (ruby on rails framework), Java and Python, I take pride in coding to consistently high standards and regularly refresh my skills to ensure I keep up with ongoing developments.
+Highly competent Full Stack Developer with over 12 years’ development experience across a variety of platforms. I have worked on numerous projects from concept to completion. A specialist in ruby (ruby on rails framework), Java and Python, I take pride in coding to consistently high standards and regularly refresh my skills to ensure I keep up with ongoing developments.
 <br>
 
 
@@ -31,26 +31,26 @@ Highly competent Full Stack Developer with 10 years’ development experience ac
 
 <hr>
 
-* Database-driven web applications via Ruby, Ruby on Rails, Python (Flask & bottle), nodejs (expressjs framework), Vue.js, React, Sinatra, Padrino, Cucumber, Rspec, Resque, Redis
+* Database-driven web applications via Ruby, Ruby on Rails, Go, Python (Flask & bottle), nodejs (expressjs framework), Vue.js, React, Sinatra, Padrino, Cucumber, Rspec, Resque, Redis
 * Java (JSF, JEE6, JSP, Spark, Freemarker), Mobile Development (Android), Programming / Markup / Scripting Languages, Ajax, XML, HTML, <a href="https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html">IPFS</a>
 * Travis, codeship
-* Vagrant, chef, Puppet, Apache, cacti, squid, Nginx, Docker, Kubernetes, Gitlab-CI/CD, Heroku apps, AWS
+* Kubernetes, Vagrant, chef, Puppet, Apache, cacti, squid, Nginx, Docker, Kubernetes, Gitlab-CI/CD, Heroku apps, AWS
 
 * Special Skills in Ruby and Java  Web-based (Servlets, JSP, JSF, Spring Roo, JEE6), GUI (AWT, Swing), Web-Service Play Framework, OR Mapping (Hibernate), Testing (Junit), Mailchimp
 
 * understanding of Multi-Threaded and Multi-Process Applications
 
-* Databases: Postgresql, Mysql, ElasticSearch, Kibana, MongoDB, GraphQL, sqlite3
+* Databases: Postgresql, Mysql, Kafka, ElasticSearch, Kibana, MongoDB, GraphQL, sqlite3
 
-* Favorite IDE – Vim, Sublime, Atom, Eclipse, PyCharm, IntelliJ, Textmate
+* Favorite IDE – Vim, Visual Studio, Sublime, Atom, Eclipse, PyCharm, IntelliJ, Textmate
 
 * Project Management – Initiation , planning, problem solving.
 
-* Special skills in Linux: (10 years) working experience with different distributions.
+* Special skills in Linux: (15 years) working experience with different distributions.
 
 * Kubernetes, Infrastructre as code (Terraform), Helm charts, docker containers and shell scripting
 
-* Working experience in Jira, Asana, Kanban, Trello, Newrelic, Sentry, hipchat, hubot and slack.
+* Working experience in Jira, Asana, Kanban, Trello, Datadog, Newrelic, Sentry, hipchat, and slack.
 
 
 # Education
@@ -82,8 +82,9 @@ management course based on UNIX in Netherlands
 
 # Work Experience
 <hr>
-###### April 2006 - November 2019 ######
+###### April 2006 - 2023 ######
 <hr>
+* _Senior Backend Developer_ at <em>Aroundhome GmbH, Berlin - Germany<em>
 * _Development Team Lead_ at <em>DigitaleSeiten GmbH, Berlin - Germany<em>
 * _Senior Full Stack Developer_ at <em>DigitaleSeiten GmbH, Berlin - Germany<em>, building RESTful APIs, lead distribution systems, CRM and 22 ruby on rails web platforms.
 * _Senior Full Stack Developer & team lead_ at <em>Castaclip GmbH, Potsdam - Germany<em> , working primarily with Ruby, Python and Java with teams consisting of 15 software Developers and test engineers
