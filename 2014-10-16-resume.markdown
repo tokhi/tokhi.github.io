@@ -31,7 +31,7 @@ Highly competent Full Stack Developer with over 12 years’ development experien
 
 <hr>
 
-* Database-driven web applications via Ruby, Ruby on Rails, Go, Gin, Go Fiber, Python (Flask & bottle), nodejs (expressjs framework), Vue.js, React, Sinatra, Padrino, Cucumber, Rspec, Resque, Redis
+* Database-driven web applications via Ruby, Ruby on Rails, Go, Gin, Go Fiber, Python (Flask & bottle), PHP, nodejs (expressjs framework), Vue.js, React, Sinatra, Padrino, Cucumber, Rspec, Resque, Redis
 * Java (JSF, JEE6, JSP, Spark, Freemarker), Mobile Development (Android), Programming / Markup / Scripting Languages, Ajax, XML, HTML, <a href="https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html">IPFS</a>
 * Travis, codeship
 * Kubernetes, Vagrant, chef, Puppet, Apache, cacti, squid, Nginx, Docker, Kubernetes, Gitlab-CI/CD, Heroku apps, AWS
