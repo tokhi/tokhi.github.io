@@ -84,8 +84,8 @@ management course based on UNIX in Netherlands
 <hr>
 ###### April 2006 - 2024 ######
 <hr>
-* _Senior Backend Software Engineer at <em>Mediafellows GmbH, Berlin - Germany<em>
-* _Senior Backend Software Engineer at <em>Aroundhome GmbH, Berlin - Germany<em>
+* _Senior Backend Software Engineer_ at <em>Mediafellows GmbH, Berlin - Germany<em>
+* _Senior Backend Software Engineer_ at <em>Aroundhome GmbH, Berlin - Germany<em>
 * _Development Team Lead_ at <em>DigitaleSeiten GmbH, Berlin - Germany<em>
 * _Senior Full Stack Developer_ at <em>DigitaleSeiten GmbH, Berlin - Germany<em>, building RESTful APIs, lead distribution systems, CRM and 22 ruby on rails web platforms.
 * _Senior Full Stack Developer & team lead_ at <em>Castaclip GmbH, Potsdam - Germany<em> , working primarily with Ruby, Python and Java with teams consisting of 15 software Developers and test engineers
