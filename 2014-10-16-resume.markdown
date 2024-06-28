@@ -82,8 +82,9 @@ management course based on UNIX in Netherlands
 
 # Work Experience
 <hr>
-###### April 2006 - 2023 ######
+###### April 2006 - 2024 ######
 <hr>
+* _Senior Backend Software Engineer at <em>Mediafellows GmbH, Berlin - Germany<em>
 * _Senior Backend Software Engineer at <em>Aroundhome GmbH, Berlin - Germany<em>
 * _Development Team Lead_ at <em>DigitaleSeiten GmbH, Berlin - Germany<em>
 * _Senior Full Stack Developer_ at <em>DigitaleSeiten GmbH, Berlin - Germany<em>, building RESTful APIs, lead distribution systems, CRM and 22 ruby on rails web platforms.
