@@ -31,24 +31,24 @@ Highly competent Full Stack Developer with over 12 years’ development experien
 
 <hr>
 
-* Database-driven web applications via Ruby, Ruby on Rails, Go, Gin, Go Fiber, Python (Flask & bottle), PHP, nodejs (expressjs framework), Vue.js, React, Sinatra, Padrino, Cucumber, Rspec, Resque, Redis
+* Database-driven web applications via Ruby, Ruby on Rails, Go, Gin, Go Fiber, Python (Flask & bottle), PHP, nodejs (expressjs framework), Vue.js, React, Sinatra, Padrino, Cucumber, Rspec, Minitest, Resque and Redis
 * Java (JSF, JEE6, JSP, Spark, Freemarker), Mobile Development (Android), Programming / Markup / Scripting Languages, Ajax, XML, HTML, <a href="https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html">IPFS</a>
 * Travis, codeship
-* Kubernetes, Vagrant, chef, Puppet, Apache, cacti, squid, Nginx, Docker, Kubernetes, Gitlab-CI/CD, Heroku apps, AWS
+* Kubernetes, Vagrant, chef, Puppet, Apache, cacti, squid, Nginx, Docker, Kubernetes, Gitlab-CI/CD, Helm, Heroku apps, AWS
 
 * Special Skills in Ruby and Java  Web-based (Servlets, JSP, JSF, Spring Roo, JEE6), GUI (AWT, Swing), Web-Service Play Framework, OR Mapping (Hibernate), Testing (Junit), Mailchimp
 
-* understanding of Multi-Threaded and Multi-Process Applications
+* Understanding of Multi-Threaded and Multi-Process Applications
 
 * Databases: Postgresql, Mysql, Kafka, ElasticSearch, Kibana, MongoDB, GraphQL, sqlite3
 
-* Favorite IDE – Vim, Visual Studio, Sublime, Atom, Eclipse, PyCharm, IntelliJ, Textmate
+* IDEs – Vim, Visual Studio, Sublime, Atom, Eclipse, PyCharm, IntelliJ, Textmate
 
 * Project Management – Initiation , planning, problem solving.
 
 * Special skills in Linux: (15 years) working experience with different distributions.
 
-* Kubernetes, Infrastructre as code (Terraform), Helm charts, docker containers and shell scripting
+* Kubernetes, Infrastructre as code (Terraform), Helm charts, Helmfile, docker containers and shell scripting
 
 * Working experience in Jira, Asana, Kanban, Trello, Datadog, Newrelic, Sentry, hipchat, and slack.
 
