@@ -32,7 +32,6 @@ I specialize in designing reliable and secure platforms that enable product team
 
 <hr>
 * <b>Platform & Cloud:</b> AWS, GCP, Kubernetes, Helm, Terraform, ArgoCD, GitLab CI/CD, Docker
-
 * <b>DevOps & Automation:</b> GitOps, CI/CD pipelines, observability (Prometheus, Grafana, Datadog, Sentry), incident response, shell scripting
 * Database-driven web applications via Ruby, Ruby on Rails, Go, Python (Flask & bottle), PHP, nodejs (expressjs framework), Vue.js, React, Sinatra, Padrino, Cucumber, Rspec, Minitest, Resque and Redis
 * Java (JSF, JEE6, JSP, Spark, Freemarker), <a href="https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html">IPFS</a>
