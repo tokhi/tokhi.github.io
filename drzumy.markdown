@@ -84,7 +84,7 @@ management course based on UNIX in Netherlands
 
 # Work Experience
 <hr>
-###### April 2006 - 2025 ######
+###### April 2006 - 2026 ######
 <hr>
 * _DevOps & Platform Engineer_ at <em>Mediafellows GmbH, Berlin - Germany<em>
   * Acted as the bridge between application development and infrastructure, evolving legacy systems into modern DevOps-driven platforms.
